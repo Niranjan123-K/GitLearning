@@ -2,6 +2,4 @@
 
 "leodass"
 
-"badass"
-
 "master"
