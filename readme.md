@@ -5,3 +5,5 @@
 "badass"
 
 "master"
+
+"chumma"
